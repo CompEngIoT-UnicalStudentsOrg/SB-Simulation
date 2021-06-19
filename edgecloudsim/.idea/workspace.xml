@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20c848c0-05ee-4ab0-bf45-596113cf89b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Scenarios/Scenario_1/config/applications.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/Scenario_1/config/default_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/Scenario_1/config/edge_devices.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_2/config/applications.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_2/config/default_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_2/config/edge_devices.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_3/config/applications.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_3/config/default_config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_3/config/edge_devices.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/Scenario_3/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/Scenario_3/SampleScenarioFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/New_MobileDeviceManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/SampleNetworkModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/SampleScenarioFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_2/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_2/SampleScenarioFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/utils/EdgeTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Vflusso.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mips Raspberry.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/MainApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/SampleScenarioFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/SampleScenarioFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleEdgeOrchestrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleEdgeOrchestrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleMobileDeviceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app3/SampleMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app3/SampleMobileDeviceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyEdgeOrchestrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyEdgeOrchestrator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyMobileDeviceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app5/VehicularMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app5/VehicularMobileDeviceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/DefaultMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/DefaultMobileDeviceManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/Task.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ttz6m0VG1qH6QimLPrPRqO11OI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/colt.jar" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\src\edu\boun\edgecloudsim\applications\scenario_2" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenarios\Scenario_1\config" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenario_1" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\edgecloudsim" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenarios\Scenario_1\config" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenarios\Scenario_1" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenarios" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenario_1\Scenarios" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.boun.edgecloudsim.applications.scenario_1" />
+      <recent name="edu.boun.edgecloudsim.applications.scenario_3" />
+      <recent name="edu.boun.edgecloudsim.applications.sample_app1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run 1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.boun.edgecloudsim.applications.scenario_1.MainApp" />
+      <module name="edgecloudsim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20c848c0-05ee-4ab0-bf45-596113cf89b9" name="Default Changelist" comment="" />
+      <created>1623603004002</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623603004002</updated>
+      <workItem from="1623603005519" duration="1601000" />
+      <workItem from="1624085664730" duration="24071000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
