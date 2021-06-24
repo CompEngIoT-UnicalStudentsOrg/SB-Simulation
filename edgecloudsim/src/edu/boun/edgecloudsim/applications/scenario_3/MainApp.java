@@ -9,7 +9,6 @@
 
 package edu.boun.edgecloudsim.applications.scenario_3;
 
-import edu.boun.edgecloudsim.applications.Scenario_3.SampleScenarioFactory;
 import edu.boun.edgecloudsim.core.ScenarioFactory;
 import edu.boun.edgecloudsim.core.SimManager;
 import edu.boun.edgecloudsim.core.SimSettings;
@@ -50,9 +49,9 @@ public class MainApp {
 		}
 		else{
 			SimLogger.printLine("Simulation setting file, output folder and iteration number are not provided! Using default ones...");
-			configFile = "scripts/sample_app1/config/default_config.properties";
-			applicationsFile = "scripts/sample_app1/config/applications.xml";
-			edgeDevicesFile = "scripts/sample_app1/config/edge_devices.xml";
+			configFile = "scenarios/scenario_3/config/default_config.properties";
+			applicationsFile = "scenarios/scenario_3/config/applications.xml";
+			edgeDevicesFile = "scenarios/scenario_3/config/edge_devices.xml";
 			outputFolder = "sim_results/scenario_3/ite" + iterationNumber;
 			File file = new File(outputFolder);
 			if(!file.exists()){

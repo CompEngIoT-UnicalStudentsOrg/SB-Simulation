@@ -150,7 +150,7 @@ public class MM1Queue extends NetworkModel {
 		return deviceCount;
 	}
 
-	private double calculateMM1(double propagationDelay, int bandwidth /*Kbps*/, double PoissonMean, double avgTaskSize /*KB*/, int deviceCount){
+	private double calculateMM1(double propagationDelay, double bandwidth /*Kbps*/, double PoissonMean, double avgTaskSize /*KB*/, int deviceCount){
 		double Bps=0, mu=0, lamda=0;
 
 		avgTaskSize = avgTaskSize * (double)1000; //convert from KB to Byte
