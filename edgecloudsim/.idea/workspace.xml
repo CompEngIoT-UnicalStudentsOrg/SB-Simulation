@@ -2,36 +2,116 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20c848c0-05ee-4ab0-bf45-596113cf89b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Scenarios/Scenario_1/config/applications.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/Scenario_1/config/default_config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/Scenario_1/config/edge_devices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_2/config/applications.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_2/config/default_config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_2/config/edge_devices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_3/config/applications.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_3/config/default_config.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Scenarios/scenario_3/config/edge_devices.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/Scenario_3/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/Scenario_3/SampleScenarioFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/New_MobileDeviceManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/SampleNetworkModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_1/SampleScenarioFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_2/MainApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_2/SampleScenarioFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/utils/EdgeTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Vflusso.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../mips Raspberry.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/SampleScenarioFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app1/SampleScenarioFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleEdgeOrchestrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleEdgeOrchestrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app2/SampleMobileDeviceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app3/SampleMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app3/SampleMobileDeviceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyEdgeOrchestrator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyEdgeOrchestrator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app4/FuzzyMobileDeviceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app5/VehicularMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/sample_app5/VehicularMobileDeviceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/DefaultMobileDeviceManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/DefaultMobileDeviceManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/edge_client/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1218DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1524DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_300DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_606DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_912DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1224DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_1530DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_306DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_612DEVICES_VM_LOAD.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_ALL_APPS_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_AP_DOWNLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_AP_UPLOAD_DELAY.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_COVID_MONITORING_APP_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_FORWARD_PARAMETER_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_INFORMATION_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_LOCATION.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_TENSOR_FLOW_TASK_GENERIC.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sim_results/scenario_2/ite1/SIMRESULT_TWO_TIER_NEXT_FIT_918DEVICES_VM_LOAD.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Sim_scenarios.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/../Sim_scenarios.drawio" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/edgecloudsim/edu/boun/edgecloudsim/network/MM1Queue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/edgecloudsim/edu/boun/edgecloudsim/network/MM1Queue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/scenario_1/config/applications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/scenario_1/config/applications.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/scenario_1/config/default_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/scenario_1/config/default_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/scenario_1/config/edge_devices.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/scenario_1/config/edge_devices.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/scenario_2/config/applications.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/scenario_2/config/applications.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/scenario_2/config/default_config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/scenario_2/config/default_config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scenarios/scenario_2/config/edge_devices.xml" beforeDir="false" afterPath="$PROJECT_DIR$/scenarios/scenario_2/config/edge_devices.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_ALL_APPS_GENERIC.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_AP_DOWNLOAD_DELAY.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_AP_UPLOAD_DELAY.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_COVID_CONTROL_APP_GENERIC.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_FORWARD_PARAMETERS_APP_GENERIC.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_INFORMATION_APP_GENERIC.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_LOCATION.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_TENSOR_FLOW_APP_GENERIC.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sim_results/scenario_1/ite1/SIMRESULT_SINGLE_TIER_NEXT_FIT_500DEVICES_VM_LOAD.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/network/MM1Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/boun/edgecloudsim/network/MM1Queue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +129,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -123,17 +203,19 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/colt.jar" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/edu/boun/edgecloudsim/applications/scenario_3" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\src\edu\boun\edgecloudsim\applications\scenario_3" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\scenarios\scenario_3\config" />
+      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\scenarios\scenario_2\config" />
       <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\src\edu\boun\edgecloudsim\applications\scenario_2" />
       <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenarios\Scenario_1\config" />
-      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenario_1" />
-      <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\edgecloudsim" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Unical\Magistrale\IOT_SYSTEMS\Project\SB-Simulation\EdgeCloudSim\Scenarios\Scenario_1\config" />
@@ -148,27 +230,44 @@
       <recent name="edu.boun.edgecloudsim.applications.sample_app1" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Run 1" type="Application" factoryName="Application">
+  <component name="RunManager" selected="Application.Run 3_Edge">
+    <configuration name="Run 1_Edge+Cloud" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="edu.boun.edgecloudsim.applications.scenario_1.MainApp" />
       <module name="edgecloudsim" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration name="Run 2_Cloud" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.boun.edgecloudsim.applications.scenario_2.MainApp" />
+      <module name="edgecloudsim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run 3_Edge" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.boun.edgecloudsim.applications.scenario_3.MainApp" />
+      <module name="edgecloudsim" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Run 1_Edge+Cloud" />
+      <item itemvalue="Application.Run 3_Edge" />
+      <item itemvalue="Application.Run 2_Cloud" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -179,7 +278,11 @@
       <option name="presentableId" value="Default" />
       <updated>1623603004002</updated>
       <workItem from="1623603005519" duration="1601000" />
-      <workItem from="1624085664730" duration="24071000" />
+      <workItem from="1624085664730" duration="24897000" />
+      <workItem from="1624295238527" duration="3730000" />
+      <workItem from="1624376650145" duration="4848000" />
+      <workItem from="1624519965973" duration="2547000" />
+      <workItem from="1624525542383" duration="12684000" />
     </task>
     <servers />
   </component>
@@ -188,5 +291,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
 </project>

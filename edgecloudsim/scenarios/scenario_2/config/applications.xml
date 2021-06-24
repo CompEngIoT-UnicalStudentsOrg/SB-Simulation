@@ -1,63 +1,63 @@
 <?xml version="1.0"?>
 <applications>
-	<application name="TENSOR_FLOW_APP">
-		<usage_percentage>15</usage_percentage>
-		<prob_cloud_selection>0</prob_cloud_selection>
-		<poisson_interarrival>5</poisson_interarrival>
-		<delay_sensitivity>0</delay_sensitivity>
-		<active_period>45</active_period>
-		<idle_period>15</idle_period>
-		<data_upload>1500</data_upload>
-		<data_download>25</data_download>
-		<task_length>2000</task_length>
-		<required_core>2</required_core>
-		<vm_utilization_on_edge>50</vm_utilization_on_edge>
-		<vm_utilization_on_cloud>0</vm_utilization_on_cloud>
-		<vm_utilization_on_mobile>0</vm_utilization_on_mobile>
-	</application>
-	<application name="FORWARD_PARAMETER">
-		<usage_percentage>35</usage_percentage>
-		<prob_cloud_selection>0</prob_cloud_selection>
-		<poisson_interarrival>5</poisson_interarrival>
-		<delay_sensitivity>0</delay_sensitivity>
-		<active_period>45</active_period>
-		<idle_period>15</idle_period>
-		<data_upload>1500</data_upload>
-		<data_download>25</data_download>
-		<task_length>2000</task_length>
-		<required_core>1</required_core>
-		<vm_utilization_on_edge>10</vm_utilization_on_edge>
-		<vm_utilization_on_cloud>0</vm_utilization_on_cloud>
-		<vm_utilization_on_mobile>0</vm_utilization_on_mobile>
-	</application>
-	<application name="INFORMATION_APP">
-		<usage_percentage>20</usage_percentage>
+	<application name="TENSOR_FLOW_TASK">
+		<usage_percentage>10</usage_percentage>
 		<prob_cloud_selection>100</prob_cloud_selection>
-		<poisson_interarrival>50</poisson_interarrival>
+		<poisson_interarrival>1200</poisson_interarrival> <!-- 20 minutes -->
 		<delay_sensitivity>0</delay_sensitivity>
-		<active_period>60</active_period>
-		<idle_period>60</idle_period>
-		<data_upload>2500</data_upload>
-		<data_download>250</data_download>
-		<task_length>3000</task_length>
+		<active_period>1.3</active_period>
+		<idle_period>1198.7</idle_period>
+		<data_upload>4</data_upload>
+		<data_download>0.37</data_download>
+		<task_length>5</task_length>
 		<required_core>1</required_core>
 		<vm_utilization_on_edge>0</vm_utilization_on_edge>
-		<vm_utilization_on_cloud>5</vm_utilization_on_cloud>
+		<vm_utilization_on_cloud>40</vm_utilization_on_cloud>
 		<vm_utilization_on_mobile>0</vm_utilization_on_mobile>
 	</application>
-	<application name="COVID_CONTROL_APP">
-		<usage_percentage>30</usage_percentage>
+	<application name="FORWARD_PARAMETER_TASK">
+		<usage_percentage>40</usage_percentage>
 		<prob_cloud_selection>100</prob_cloud_selection>
-		<poisson_interarrival>50</poisson_interarrival>
+		<poisson_interarrival>300</poisson_interarrival>
 		<delay_sensitivity>0</delay_sensitivity>
-		<active_period>15</active_period>
-		<idle_period>45</idle_period>
-		<data_upload>25</data_upload>
-		<data_download>2000</data_download>
-		<task_length>750</task_length>
+		<active_period>0.2</active_period>
+		<idle_period>299.8</idle_period>
+		<data_upload>0.05</data_upload>
+		<data_download>0.6</data_download>
+		<task_length>2000</task_length>
 		<required_core>1</required_core>
 		<vm_utilization_on_edge>0</vm_utilization_on_edge>
 		<vm_utilization_on_cloud>20</vm_utilization_on_cloud>
+		<vm_utilization_on_mobile>0</vm_utilization_on_mobile>
+	</application>
+	<application name="INFORMATION_TASK">
+		<usage_percentage>20</usage_percentage>
+		<prob_cloud_selection>100</prob_cloud_selection>
+		<poisson_interarrival>120</poisson_interarrival>
+		<delay_sensitivity>0</delay_sensitivity>
+		<active_period>0.1</active_period>
+		<idle_period>4.9</idle_period>
+		<data_upload>0.6</data_upload>
+		<data_download>0.6</data_download>
+		<task_length>300</task_length>
+		<required_core>1</required_core>
+		<vm_utilization_on_edge>0</vm_utilization_on_edge>
+		<vm_utilization_on_cloud>10</vm_utilization_on_cloud>
+		<vm_utilization_on_mobile>0</vm_utilization_on_mobile>
+	</application>
+	<application name="COVID_MONITORING_APP">
+		<usage_percentage>30</usage_percentage>
+		<prob_cloud_selection>100</prob_cloud_selection>
+		<poisson_interarrival>5</poisson_interarrival>
+		<delay_sensitivity>0</delay_sensitivity>
+		<active_period>0.4</active_period>
+		<idle_period>4.9</idle_period>
+		<data_upload>0.6</data_upload>
+		<data_download>0.6</data_download>
+		<task_length>1200</task_length>
+		<required_core>1</required_core>
+		<vm_utilization_on_edge>0</vm_utilization_on_edge>
+		<vm_utilization_on_cloud>30</vm_utilization_on_cloud>
 		<vm_utilization_on_mobile>0</vm_utilization_on_mobile>
 	</application>
 </applications>
